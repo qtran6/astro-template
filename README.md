@@ -1,0 +1,2 @@
+# astro-template
+Astro Template
